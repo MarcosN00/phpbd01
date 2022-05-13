@@ -91,7 +91,7 @@ body {
 /* Logotipo usando "Font Awesome". */
 .wrap>header a {
     font-size: 70px;
-    color: rgb(129, 24, 24);
+    color: rgb(107, 15, 15);
     -webkit-text-stroke: 3px black;
     padding-left: .5rem;
     margin-top: -.5rem;
