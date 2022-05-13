@@ -1,2 +1,3 @@
-# phpbd01
- primeira aula de php c/ bd
+# PHPDB01
+
+Aplicativo modelo full-stack usando HTML, CSS, PHP e MySQL.
